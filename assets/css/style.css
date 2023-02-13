@@ -1,0 +1,11 @@
+header{
+    background-image: url('../img/pattern.png');
+    background-color: rgb(67, 168, 235);
+    background-size: 400px;
+    padding-top: 30px;
+    padding-left: 40px;
+}
+
+.logo_booleaner{
+    width: 200px;
+}
