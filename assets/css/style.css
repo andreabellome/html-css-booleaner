@@ -38,6 +38,10 @@ h4, h5{
     background-color: #33C2FF;
 }
 
+.tr_colored{
+    background-color: #83EFFF;
+}
+
 .div_images{
     object-fit: fill;
     padding-bottom: 20px;
