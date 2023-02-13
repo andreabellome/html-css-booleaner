@@ -32,3 +32,22 @@ h4, h5{
     padding-bottom: 20px;
     text-align: justify;
 }
+
+.div_foot_1{
+    background-image: url('../img/monitor.jpg');
+    color: white;
+    font-size: 160%;
+    background-repeat: no-repeat;
+    width: 280px;
+    height: 220px;   
+}
+
+.div_foot_2{
+    background-image: url('../img/graph.jpg');
+    color: white;
+    font-size: 160%;
+    background-repeat: no-repeat;
+    width: 280px;
+    height: 220px;  
+}
+
