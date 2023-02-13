@@ -9,17 +9,15 @@ header{
     background-image: url('../img/pattern.png');
     background-color: rgb(67, 168, 235);
     background-size: 350px;
-    padding-top: 30px;
-    padding-left: 435px;
-    padding-right: 200px;
+}
+
+.div_logo{
+    width: 1050px;
+    margin: auto;
+    padding: 10px;
 }
 
 main{
-    margin: auto;
-}
-
-.container{
-    /* margin-top: 100px; */
     width: 1050px;
     margin: auto;
     padding: 10px;
@@ -59,10 +57,6 @@ h4, h5{
     object-fit: fill;
     padding-bottom: 20px;
     text-align: justify;
-}
-
-.logo_booleaner{
-    width: 200px;
 }
 
 .div_padding_text_align{
