@@ -1,19 +1,23 @@
 header{
     background-image: url('../img/pattern.png');
     background-color: rgb(67, 168, 235);
-    background-size: 400px;
+    background-size: 350px;
     padding-top: 30px;
-    padding-left: 40px;
-}
-
-h1{
-    font-size: 40px;
+    padding-left: 100px;
 }
 
 main{
     padding-top: 20px;
     padding-left: 100px;
     padding-right: 100px;
+}
+
+footer{
+    padding-left: 100px;
+}
+
+h1{
+    font-size: 40px;
 }
 
 h4, h5{
@@ -24,19 +28,7 @@ h4, h5{
     width: 200px;
 }
 
-.div_images{
-    padding-top: 20px;
+.div_padding_text_align{
     padding-bottom: 20px;
-}
-
-.div_text{
-    padding-bottom: 20px;
-}
-
-.div_list{
-    padding-bottom: 20px;
-}
-
-.div_table{
-    padding-bottom: 20px;
+    text-align: justify;
 }
