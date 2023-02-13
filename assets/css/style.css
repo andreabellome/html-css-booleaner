@@ -3,17 +3,19 @@ header{
     background-color: rgb(67, 168, 235);
     background-size: 350px;
     padding-top: 30px;
-    padding-left: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 
 main{
     padding-top: 20px;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 
 footer{
-    padding-left: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 
 h1{
@@ -22,6 +24,24 @@ h1{
 
 h4, h5{
     color: rgb(163, 163, 163);
+}
+
+.t_short{
+    width: 350px;
+    color: white;
+    background-color: #33C2FF;
+}
+
+.t_long{
+    width: auto;
+    color: white;
+    background-color: #33C2FF;
+}
+
+.div_images{
+    object-fit: fill;
+    padding-bottom: 20px;
+    text-align: justify;
 }
 
 .logo_booleaner{
@@ -39,7 +59,9 @@ h4, h5{
     font-size: 160%;
     background-repeat: no-repeat;
     width: 280px;
-    height: 220px;   
+    height: 220px;
+    padding-top: 10px; 
+    padding-left: 5px; 
 }
 
 .div_foot_2{
@@ -49,5 +71,7 @@ h4, h5{
     background-repeat: no-repeat;
     width: 280px;
     height: 220px;  
+    padding-top: 10px; 
+    padding-left: 5px; 
 }
 
