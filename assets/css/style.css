@@ -7,7 +7,7 @@ body {
 
 header{
     background-image: url('../img/pattern.png');
-    background-color: rgb(67, 168, 235);
+    background-color: #4EA0FF;
     background-size: 350px;
 }
 
@@ -40,17 +40,17 @@ h4, h5{
 .t_short{
     width: 250px;
     color: white;
-    background-color: #33C2FF;
+    background-color: #20A9E5;
 }
 
 .t_long{
     width: auto;
     color: white;
-    background-color: #33C2FF;
+    background-color: #20A9E5;
 }
 
 .tr_colored{
-    background-color: #83EFFF;
+    background-color: #B1E5F2;
 }
 
 .div_images{
