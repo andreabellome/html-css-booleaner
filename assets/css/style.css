@@ -11,21 +11,9 @@ header{
     background-size: 350px;
 }
 
-.div_logo{
-    width: 1050px;
-    margin: auto;
-    padding: 10px;
-}
-
-main{
-    width: 1050px;
-    margin: auto;
-    padding: 10px;
-}
-
-footer{
-    width: 1050px;
-    margin: auto;
+.container{
+    width: 80%;
+    margin: 0 auto;
     padding: 10px;
 }
 
